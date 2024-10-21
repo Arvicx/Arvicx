@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá!! Sou o Arthur!
 
-<!--
-**Arvicx/Arvicx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/arvicx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arvicx&theme=midnight-purple" />
+</a>
+<a href="https://github.com/arvicx/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvicx&theme=midnight-purple&layout=compact&langs_count=8&card_width=300" />
+</a>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="Arthur-Java" height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+<img align="center" alt="Arthur-C" height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />                 
+          

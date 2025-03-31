@@ -2,10 +2,6 @@
 
 ### Status & Atividades 📊
 
-* [🔥 GitHub Readme Streak Stats](https://streak-stats.demolab.com/demo/)
-* [📊 GitHub Readme Stats]( https://github.com/anuraghazra/github-readme-stats)
-* [📈 GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <strong>Streak Status 🔥</strong>
 
 <div align="center">

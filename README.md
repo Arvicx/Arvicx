@@ -1,8 +1,23 @@
-### Olá!! Sou o Arthur!
+### Olá, sou o Arthur 👋
 
-<a href="https://github.com/arvicx/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arvicx&theme=midnight-purple" />
-</a>
-<a href="https://github.com/arvicx/convoychat">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvicx&theme=midnight-purple&layout=compact&langs_count=8&card_width=250" />
-</a>
+### Status & Atividades 📊
+
+* [🔥 GitHub Readme Streak Stats](https://streak-stats.demolab.com/demo/)
+* [📊 GitHub Readme Stats]( https://github.com/anuraghazra/github-readme-stats)
+* [📈 GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<strong>Streak Status 🔥</strong>
+
+<div align="center">
+  <img src='https://streak-stats.demolab.com?user={{Arvicx}}&theme=react&hide_border=true&border_radius={{border_radius}}&background=0c3666' alt='GitHub Streak' />
+</div>
+
+<strong>Status do Github💻</strong>
+
+<div align="center" style="width: 100%">
+  <img align="center" alt="{{Arvicx}}'s Stats" src='https://github-readme-stats.vercel.app/api?username=Arvicx&show_icons=true&theme=holi&hide_border=true&border_radius={{border_radius}}&bg_color=0c3666' />
+  <p></p>
+  <img align="center" alt="{{Arvicx}} Linguagens mais utilizadas" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Arvicx&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=holi&hide_border=true&border_radius={{border_radius}}&bg_color=0c3666'>
+  <p></p>
+  <img alt="Arvicx's Activity Graph" style="width: 100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=Arvicx&bg_color=0c3666&color=5fabee&line=1658a3&point=61dafb&hide_border=true&radius={{border_radius}}&area=true">
+</div>

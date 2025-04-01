@@ -6,7 +6,18 @@
 
 <div align="center">
   <img src='https://streak-stats.demolab.com?user={{Arvicx}}&theme=midnight-purple&hide_border=true&border_radius={{border_radius}}&background=23012b' alt='GitHub Streak' />
+  <table>
+    <tr>
+      <th>Visitas no perfil</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=Arvicx&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <strong>Status do Github💻</strong>
 
@@ -17,3 +28,4 @@
   <p></p>
   <img alt="Arvicx's Activity Graph" style="width: 100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=Arvicx&bg_color=23012b&color=fcf0ff&line=fcf0ff&point=61dafb&hide_border=true&radius={{border_radius}}&area=true">
 </div>
+

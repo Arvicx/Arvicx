@@ -17,7 +17,6 @@
       </td>
     </tr>
   </table>
-  <img src='https://streak-stats.demolab.com?user={{Arvicx}}&theme=midnight-purple&hide_border=true&border_radius={{border_radius}}&background=23012b' alt='GitHub Streak' />
 </div>
 
 <div align="center">
